@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Hospice_Carl_Taneo_Application_Files_Exercise</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-23 14:56:02</sys_created_on>
+        <sys_id>e7cb10db833312103f3254b6feaad3ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hospice Carl Taneo Application Files Exercise</sys_name>
+        <sys_package display_value="NeedIt" source="x_1621913_needit">11da981b833312103f3254b6feaad318</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">11da981b833312103f3254b6feaad318</sys_scope>
+        <sys_update_name>sys_ui_view_e7cb10db833312103f3254b6feaad3ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-23 14:56:02</sys_updated_on>
+        <title>Hospice Carl Taneo Application Files Exercise</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

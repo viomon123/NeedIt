@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ai_generated>false</ai_generated>
+        <category/>
+        <content><![CDATA[<h1 class="title topictitle1">Using the needit Form</h1>
+<p>Use the needit application to request services and goods from several departments:</p>
+<ul class="steps-unordered"><li class="li step">Legal</li><li class="li step">Human Resources</li><li class="li step">Facilities</li></ul>
+<h2 class="title topictitle1 sectiontitle">Needit Form Fields</h2>
+<ol class="steps-unordered"><li class="li step">For new needit records, the requested for field is pre-populated with your name. If you are opening a needit request for someone else, you can change the value in the requested for field.</li><li class="li step">The requested for email field is automatically populated if you change the user in the requested for field. You can change the requested for email field value.</li><li class="li step">The choices in the what needed field depend on the value in the request type field.</li><li class="li step">If the value in the what needed field is other, the other field appears. Use the other field to add a few words about your request.</li><li class="li step">Use the calendar picker in the when needed field to set the due date for the needit request.</li><li class="li step">Use the short description and description fields to provide more information about your request.</li></ol>
+<div class="note tm-element"><span class="notetitle">Note: When creating Needit requests, the When <em>needed</em> date cannot be today or in the past.</span></div>
+<h2 class="title topictitle1 sectiontitle">Need More Help?</h2>
+<p>You can learn more about form fields on the servicenow docs site.</p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>Hospice Carl Taneo NeedIt Form</name>
+        <page>x_1621913_needit_needit</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-23 15:17:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cdbf1cdf833312103f3254b6feaad3dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hospice Carl Taneo NeedIt Form</sys_name>
+        <sys_package display_value="NeedIt" source="x_1621913_needit">11da981b833312103f3254b6feaad318</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">11da981b833312103f3254b6feaad318</sys_scope>
+        <sys_update_name>sys_embedded_help_content_cdbf1cdf833312103f3254b6feaad3dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-23 15:17:37</sys_updated_on>
+        <version>all</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=cdbf1cdf833312103f3254b6feaad3dd"/>
+</record_update>
